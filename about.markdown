@@ -9,7 +9,7 @@ Hello Everyone! My name is Claire Chambers, and I'm a jack-of-all-trades program
 
 
 ## Some selected photos from my life
-![A Roseate Spoonbill that I saw on a trip to the Charleston Aquarium with my Girlfriend]({{ site.baseurl }}/images/spoonbill.png)
+![A Roseate Spoonbill that I saw on a trip to the Charleston Aquarium with my Girlfriend]({{ site.url }}{{ site.baseurl }}/images/spoonbill.png)
 
 [linkedin]: https://www.linkedin.com/in/claire-chambers-65002b115/
 [work]: mailto:work@inquries1995.mailer.me
